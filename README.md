@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Areebkhan
+- 👀 I’m interested in programing and development
+- 🌱 I’m currently learning html, css and some other tools for web designing
+- 💞️ I’m looking to collaborate on cool websites
+- 📫 How to reach me: you can email me at ak06865@st.habib.edu.pk
